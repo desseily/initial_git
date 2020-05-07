@@ -3,3 +3,4 @@ This is a new line added
 This is a test
 This is for git training
 git training is fun
+This is for the new branch
